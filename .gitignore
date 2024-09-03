@@ -1,0 +1,8 @@
+*.zip
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.lck
+*.bak
+fp-info-cache
+*.kicad_prl
+*-backups
